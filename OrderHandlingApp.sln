@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderHandlingApp", "OrderHandlingApp\OrderHandlingApp.csproj", "{F16751A5-5422-4383-A592-C19615CA1468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16751A5-5422-4383-A592-C19615CA1468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16751A5-5422-4383-A592-C19615CA1468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16751A5-5422-4383-A592-C19615CA1468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16751A5-5422-4383-A592-C19615CA1468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF7EE50-D4A3-4CA2-939F-C0940A4C8251}
+	EndGlobalSection
+EndGlobal
